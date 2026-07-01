@@ -1,5 +1,4 @@
-# 💫 About Me:
-Starting my journey in Python, Data Structures, and Statistics with a focus on building real-world skills step by step.<br>Currently learning core programming and problem-solving while preparing to work on data analysis and machine learning projects.<br>Interested in understanding how technology can be applied to solve real business problems.<br>Documenting my progress and projects as I build.
+
 
 
 # 💻 Tech Stack:
